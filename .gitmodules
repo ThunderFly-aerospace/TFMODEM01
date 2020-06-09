@@ -1,0 +1,3 @@
+[submodule "hw/USB232R01"]
+	path = hw/USB232R01
+	url = https://github.com/mlab-modules/USB232R01.git
