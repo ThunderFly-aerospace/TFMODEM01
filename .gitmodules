@@ -4,3 +4,6 @@
 [submodule "hw/ISM01"]
 	path = hw/ISM01
 	url = https://github.com/mlab-modules/ISM01.git
+[submodule "sw/SiK"]
+	path = sw/SiK
+	url = https://github.com/ThunderFly-aerospace/SiK.git
