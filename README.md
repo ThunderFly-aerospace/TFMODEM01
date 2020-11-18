@@ -29,3 +29,10 @@ The modem could be extended up to four antenna MIMO configuration by adding the 
     * Gain 18.7dB
   * Filter: SAW AFS selected for specific ISM band
   * Power: USB +5V 500 mA.
+
+
+## Where to get it?
+
+ThunderFly ground control station telemetry modem is commercially available from [ThunderFly s.r.o.](https://www.thunderfly.cz/), write an email to info@thunderfly.cz or shop at [Tindie store](https://www.tindie.com/products/thunderfly/tfmodem01-sik-telemetry-ground-station-unit/).
+
+
