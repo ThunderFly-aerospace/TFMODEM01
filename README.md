@@ -4,20 +4,20 @@ The modem is part of the ThunderFly ground control station. It is based on our p
 
 ![Modem front](doc/img/TFMODEM01A_front.jpg)
 
-
-![Modem schematics](doc/img/TFMODEM01_schematics.png)
-
+The modem could be extended up to four antenna MIMO configuration by adding the external RF switch network (optional extension device).
 
 <p float="left">
 <img src="doc/img/TFMODEM01_schematics.png" width="45%" />
 <img src="/doc/img/TFMODEM01_multi_antenna_extension.png" width="45%" />
 </p>
 
+
+
   * Supported protocol: MAVLink 2
-  * Supported bands: 433MHz, 868 MHz. 
+  * Supported bands: 433MHz, 868 MHz.
   * Modem chip: Si4463
     * User selectable output power up to +20 dBm
-    * RX Sensitivity -124 dBm @ 1000 bps FSK 
+    * RX Sensitivity -124 dBm @ 1000 bps FSK
   * MIMO RX/TX: 2 Antenna
   * Automatic antenna switching
   * Interface: full-speed USB 2.0 USB-B
@@ -28,4 +28,4 @@ The modem is part of the ThunderFly ground control station. It is based on our p
     * High noise imunity OIP3 39.5dBm
     * Gain 18.7dB
   * Filter: SAW AFS selected for specific ISM band
-  * Power: USB +5V 500 mA. 
+  * Power: USB +5V 500 mA.
