@@ -11,7 +11,7 @@ The modem could be extended up to four antenna MIMO configuration by adding the 
 <img src="/doc/img/TFMODEM01_multi_antenna_extension.png" width="45%" />
 </p>
 
-
+## Parameters
 
   * Supported protocol: MAVLink 2
   * Supported bands: 433MHz, 868 MHz.
