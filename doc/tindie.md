@@ -2,7 +2,7 @@
 
 TFMODEM01 is an advanced telemetry transceiver for use in a GCS (Ground control station). TFMODEM supports multiple antenna connection two is standard and could be expanded up to four Tx/Rx antennas. The modem automatically selects the most suitable receiving and transmitting antenna, according to the best connection quality. The modem can use concurrently both an omnidirectional antenna and a high-gain directional antenna on a rotator that provides a high-reliable connection to distant flights.
 
-The TFMODEM01 is compatible with standard SiK-based UAV and UAS infrastructure. Therefore it could be directly used with Ground Control software like [QGroundControl](http://qgroundcontrol.com/).
+The TFMODEM01 is intended to be paired with [TFSIK01](https://github.com/ThunderFly-aerospace/TFSIK01) but is backward compatible with standard SiK-based UAV and UAS infrastructure. Therefore it could be directly used with Ground Control software like [QGroundControl](http://qgroundcontrol.com/) or [Mission Planner](https://ardupilot.org/planner/).
 
 The receiver is packed in an aluminum box. 
 
